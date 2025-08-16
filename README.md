@@ -3,6 +3,15 @@
 - "THIS ICON PACK IS SO BAD I COULD DIE!"
 - vista icon theme for windows 10 1903 and up
 
+# how to put onto system
+1. go to this link https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422 and download it
+2. !!!IMPORTANT!!! install net framework 3.5 https://www.microsoft.com/en-us/download/details.aspx?id=21 or you WILL die
+3. unzip it and do what it says in the thing
+4. press "add custom pack" and click on the panevista that i hope you downloaded already
+5. press start patching
+6. ???
+7. done
+
 # q&a
 "hey idiot! why is it 7tsp?"
 1. its easier for me to work with
