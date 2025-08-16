@@ -10,10 +10,10 @@ vista icon theme for windows 10 1903 and up
 3. it works for me
 
 "ntmu when"
-soon(TM) but im too lazy to port it rn
+- soon(TM) but im too lazy to port it rn
 
 "why call it panevista"
-pane is like a buzzword so like imagine "AI Rice Cooker" and how it uses ai as a buzzword
+- pane is like a buzzword so like imagine "AI Rice Cooker" and how it uses ai as a buzzword
 
 # roadmap
 1. ntmu port (X)
