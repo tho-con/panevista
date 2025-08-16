@@ -1,4 +1,4 @@
-# panevista
+# panevista-ultimate
 
 - vista icon theme for windows 10 1903 and up
 
