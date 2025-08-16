@@ -1,6 +1,5 @@
 # panevista
 
-- "THIS ICON PACK IS SO BAD I COULD DIE!"
 - vista icon theme for windows 10 1903 and up
 
 # how to put onto system
