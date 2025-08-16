@@ -24,6 +24,8 @@
 "why call it panevista"
 - pane is like a buzzword so like imagine "AI Rice Cooker" and how it uses ai as a buzzword
 
+# if you have any advice for getting roadmap done, please feel free to discuss it in this repo 🥺
+
 # roadmap
 1. ntmu port (X)
 2. make multiple versions of branding (X)
