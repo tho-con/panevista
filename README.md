@@ -17,6 +17,9 @@
 2. its changes are much more easily reversible and you dont have to risk getting sfc /scannowned because you did one too many mods to your system
 3. it works for me
 
+"why now?"
+- noone fucking cares about vista and that pisses me off
+
 "ntmu when"
 - soon(TM) but im too lazy to port it rn
 
