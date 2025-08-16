@@ -14,6 +14,6 @@ soon(TM) but im too lazy to port it rn
 pane is like a buzzword so like imagine "AI Rice Cooker" and how it uses ai as a buzzword
 
 # roadmap
-ntmu port (X)
-make multiple versions of branding (X)
-make wicked awesome graphic of this (X)
+1. ntmu port (X)
+2. make multiple versions of branding (X)
+3. make wicked awesome graphic of this (X)
