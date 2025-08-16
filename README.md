@@ -1,0 +1,2 @@
+# panevista
+THIS ICON THEME IS SO BAD I COULD DIE!
