@@ -1,7 +1,7 @@
 # panevista
 
-"THIS ICON PACK IS SO BAD I COULD DIE!"
-vista icon theme for windows 10 1903 and up
+- "THIS ICON PACK IS SO BAD I COULD DIE!"
+- vista icon theme for windows 10 1903 and up
 
 # q&a
 "hey idiot! why is it 7tsp?"
