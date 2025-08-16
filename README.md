@@ -8,8 +8,10 @@ vista icon theme for windows 10 1903 and up
 1. its easier for me to work with
 2. its changes are much more easily reversible and you dont have to risk getting sfc /scannowned because you did one too many mods to your system
 3. it works for me
+
 "ntmu when"
 soon(TM) but im too lazy to port it rn
+
 "why call it panevista"
 pane is like a buzzword so like imagine "AI Rice Cooker" and how it uses ai as a buzzword
 
